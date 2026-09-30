@@ -17,3 +17,9 @@
   - 「显示密码」开关与实时密码强度提示（弱/中/强）
   - 修改后写入 SHA-256 哈希与修改时间，并记录后台操作日志
 - **生效方式**：总后台的代理列表是代理登录凭据的唯一来源。代理后台（`/agent-backend/`）登录时会读取总后台维护的代理账号进行邮箱 + 密码校验，因此在总后台改密后，代理使用新密码即可登录；账号被冻结的代理无法登录
+<img width="824" height="942" alt="截屏2026-09-30 17 13 25" src="https://github.com/user-attachments/assets/19f06dd9-4840-41f6-b4f8-d35f037e9aed" />
+<img width="887" height="941" alt="截屏2026-09-30 17 19 10" src="https://github.com/user-attachments/assets/fc23e689-bc38-4091-9e11-26604315e3d4" />
+<img width="1692" height="927" alt="截屏2026-09-30 17 16 22" src="https://github.com/user-attachments/assets/e9eac128-a124-4a8b-8e27-5ea042d129a0" />
+<img width="1673" height="929" alt="截屏2026-09-30 17 17 55" src="https://github.com/user-attachments/assets/d3f3e9a1-1ab5-4f43-b7d2-7298456a2ee7" />
+可以修改界面和其他任何功能
+需要的朋友可以联系Telegram:@diaoGT @AMGT1
